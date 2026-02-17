@@ -1,0 +1,24 @@
+baseURL = 'https://bolotov.blog/'
+languageCode = 'en-us'
+title = 'Bolotov Alexander'
+theme = "PaperMod"
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "search"
+    name = "Search"
+    url = "/search/"
+    weight = 30
+
