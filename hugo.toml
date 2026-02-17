@@ -1,4 +1,4 @@
-baseURL = 'https://bolotov.blog/'
+baseURL = "https://alexander-bolotov.github.io/"
 languageCode = 'en-us'
 title = 'Bolotov Alexander'
 theme = "PaperMod"
